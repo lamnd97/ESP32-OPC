@@ -1,0 +1,38 @@
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\bin\Debug\Interop.OPCAutomation.dll
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HK2\Microcontroller lab\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\bin\Debug\Interop.OPCAutomation.dll
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\bin\Debug\Interop.OPCAutomation.dll
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HK2\Microcontroller lab\Bao cao\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

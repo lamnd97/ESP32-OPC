@@ -1,0 +1,12 @@
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\bin\Release\Interop.OPCAutomation.dll
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+E:\[Phanmem123.com] KEPServerEX v6.6.350.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
